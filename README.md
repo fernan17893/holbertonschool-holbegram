@@ -35,15 +35,15 @@ flutter run
 
 ### Login Screen
 
-![](./holbegram/assets/images/holbegram_LogedOut.png)
+![alt text](./holbegram/assets/images/holbegram_LogedOut.png)
 
 ### Profile Screen
 
-![](./holbegram/assets/images/holbegram_Profile.png)
+![alt text](./holbegram/assets/images/holbegram_Profile.png)
 
 ### Home Feed
 
-![](./holbegram/assets/images/holbegram_LogedIn.png)
+![alt text](./holbegram/assets/images/holbegram_LogedIn.png)
 
 ## What's Next?
 
